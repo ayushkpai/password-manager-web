@@ -1,24 +1,19 @@
-# README
+# Password Manager
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Open your terminal and clone this repository
 
-Things you may want to cover:
+  First make sure you have a ssh key if you dont have go to my dotfiles repository and follow the instructions
 
-* Ruby version
+  ```
+  git clone git@github.com:ayushkpai/password-manager-web.git
+  ```
 
-* System dependencies
+- Next install ruby and rails
 
-* Configuration
+  Also documented in dotfiles
 
-* Database creation
+- To run the project
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  ```
+  ./bin/dev
+  ```
